@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapWCFDLL", "SoapWCFDLL\SoapWCFDLL.csproj", "{362A9520-7518-4684-B962-C2A03A018E8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapWCFDLLTests", "SoapWCFDLLTests\SoapWCFDLLTests.csproj", "{317EBEA6-5FDE-4989-91AD-36AFA702F09C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{362A9520-7518-4684-B962-C2A03A018E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{362A9520-7518-4684-B962-C2A03A018E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{362A9520-7518-4684-B962-C2A03A018E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317EBEA6-5FDE-4989-91AD-36AFA702F09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317EBEA6-5FDE-4989-91AD-36AFA702F09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317EBEA6-5FDE-4989-91AD-36AFA702F09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317EBEA6-5FDE-4989-91AD-36AFA702F09C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
